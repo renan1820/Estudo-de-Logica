@@ -3,5 +3,6 @@
     <pages>
         <page name='Transformar Int to String'/>
         <page name='Organizar Arrays'/>
+        <page name='ConvertNumberToArray'/>
     </pages>
 </playground>
