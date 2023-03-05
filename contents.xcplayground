@@ -6,5 +6,6 @@
         <page name='ConvertNumberToArray'/>
         <page name='ArrayContains'/>
         <page name='DoubleArray'/>
+        <page name='CamelCase'/>
     </pages>
 </playground>
