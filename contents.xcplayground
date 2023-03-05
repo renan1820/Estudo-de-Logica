@@ -4,6 +4,7 @@
         <page name='Transformar Int to String'/>
         <page name='Organizar Arrays'/>
         <page name='ConvertNumberToArray'/>
-        <page name='GolMessi'/>
+        <page name='ArrayContains'/>
+        <page name='DoubleArray'/>
     </pages>
 </playground>
